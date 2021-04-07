@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/jarero321.github.io/Quizztar/static/js/main.51e6baf8.chunk.js",
+    "main.js.map": "/jarero321.github.io/Quizztar/static/js/main.51e6baf8.chunk.js.map",
+    "runtime-main.js": "/jarero321.github.io/Quizztar/static/js/runtime-main.62af06c3.js",
+    "runtime-main.js.map": "/jarero321.github.io/Quizztar/static/js/runtime-main.62af06c3.js.map",
+    "static/js/2.69693954.chunk.js": "/jarero321.github.io/Quizztar/static/js/2.69693954.chunk.js",
+    "static/js/2.69693954.chunk.js.map": "/jarero321.github.io/Quizztar/static/js/2.69693954.chunk.js.map",
+    "index.html": "/jarero321.github.io/Quizztar/index.html",
+    "static/js/2.69693954.chunk.js.LICENSE.txt": "/jarero321.github.io/Quizztar/static/js/2.69693954.chunk.js.LICENSE.txt",
+    "static/media/Background.7e427a04.svg": "/jarero321.github.io/Quizztar/static/media/Background.7e427a04.svg",
+    "static/media/Jupyter.fcc3b4de.svg": "/jarero321.github.io/Quizztar/static/media/Jupyter.fcc3b4de.svg",
+    "static/media/Marte.40461d85.svg": "/jarero321.github.io/Quizztar/static/media/Marte.40461d85.svg",
+    "static/media/Mercurio.d319c801.svg": "/jarero321.github.io/Quizztar/static/media/Mercurio.d319c801.svg",
+    "static/media/Neptuno.ee737fcd.svg": "/jarero321.github.io/Quizztar/static/media/Neptuno.ee737fcd.svg",
+    "static/media/Pluton.2963fb7d.svg": "/jarero321.github.io/Quizztar/static/media/Pluton.2963fb7d.svg",
+    "static/media/Saturno.78789ffb.svg": "/jarero321.github.io/Quizztar/static/media/Saturno.78789ffb.svg",
+    "static/media/Stars.6a7a3fda.svg": "/jarero321.github.io/Quizztar/static/media/Stars.6a7a3fda.svg",
+    "static/media/Sun.e3f15df8.svg": "/jarero321.github.io/Quizztar/static/media/Sun.e3f15df8.svg",
+    "static/media/Tierra.b787c084.svg": "/jarero321.github.io/Quizztar/static/media/Tierra.b787c084.svg",
+    "static/media/Urano.47eebcaa.svg": "/jarero321.github.io/Quizztar/static/media/Urano.47eebcaa.svg",
+    "static/media/Venus.c4bdb310.svg": "/jarero321.github.io/Quizztar/static/media/Venus.c4bdb310.svg",
+    "static/media/WhiteShadow.eef29cae.svg": "/jarero321.github.io/Quizztar/static/media/WhiteShadow.eef29cae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62af06c3.js",
+    "static/js/2.69693954.chunk.js",
+    "static/js/main.51e6baf8.chunk.js"
+  ]
+}
