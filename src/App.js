@@ -1,24 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
-
+import { Fragment } from "react";
+import GlobalStyle from "../src/styles/GlobalStyles";
+import LandingPage from "../src/components/LandingPage";
+import QuizzPage from "../src/components/QuizzPage";
+import { ThemeProvider } from "../src/context/ThemeContext";
+import { DataProvider } from "../src/context/DataContext";
+import {
+  HashRouter as Router,
+  Route
+} from "react-router-dom";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Fragment>
+          <DataProvider>
+            <ThemeProvider>
+              <GlobalStyle />
+              <Route exact path="/" component={LandingPage} />
+              <Route exact path="/Quizz" component={QuizzPage} />
+            </ThemeProvider>
+          </DataProvider>
+      </Fragment>
+    </Router>
   );
 }
 
